@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-v1.30-green)
+
+
 # copenhagen-public-transport-dashboard
 
 # Description:
